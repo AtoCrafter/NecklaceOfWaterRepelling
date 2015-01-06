@@ -1,0 +1,15 @@
+[
+{
+  "modid": "NecklaceOfWaterRepelling",
+  "name": "Necklace of Water Repelling MOD",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ato"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
