@@ -6,6 +6,7 @@ import net.minecraft.item.{Item, ItemStack}
 import net.minecraft.world.World
 
 class ItemNecklaceOfWaterRepelling extends Item {
+
   setUnlocalizedName("NecklaceOfWaterRepelling")
   setCreativeTab(CreativeTabs.tabCombat)
 
