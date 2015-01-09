@@ -1,3 +1,6 @@
+[![Build Status](https://drone.io/github.com/AtoCrafter/NecklaceOfWaterRepelling/status.png)](https://drone.io/github.com/AtoCrafter/NecklaceOfWaterRepelling/latest)
+
+
 # Nacklace of Water Repulling
 
 Minecraft MOD
